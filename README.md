@@ -1,4 +1,4 @@
-## Hey whats'up ? I'm Gabriel, future software developer🤙🏻
+## Hey whats'up ? I'm Gabriel, future developer🤙🏻
  <div>
   <a href="https://github.com/gabrielmiller1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmiller1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
